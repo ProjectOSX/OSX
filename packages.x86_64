@@ -122,3 +122,22 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+#####
+###  GUI #######
+code
+kde-meta
+dolphin
+kate
+kdenlive
+discord
+firefox
+cmake
+yay
+pamac
+ulauncher
+osx-installer
+konsole
+kvantum
+latte-dock
+networkmanager
+network-manager-applet

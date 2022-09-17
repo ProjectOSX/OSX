@@ -1,21 +1,4 @@
 #!/bin/bash
-#set -e
-##################################################################################################################
-# Author 	: 	Erik Dubois
-# Website 	: 	https://www.erikdubois.be
-# Website	:	https://www.arcolinux.info
-# Website	:	https://www.arcolinux.com
-# Website	:	https://www.arcolinuxd.com
-# Website	:	https://www.arcolinuxforum.com
-##################################################################################################################
-#
-#   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
-#
-##################################################################################################################
-# change a commit comment
-# git commit --amend -m "more info"
-# git push --force origin
-
 
 # checking if I have the latest files from github
 echo "Checking for newer files online first"
@@ -37,7 +20,7 @@ git commit -m "$input"
 
 # Push the local files to github
 
-git push -u origin master
+git push -u origin main
 
 
 echo "################################################################"
