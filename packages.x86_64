@@ -125,7 +125,7 @@ zsh
 #####
 ###  GUI #######
 code
-kde-meta
+plasma-meta
 dolphin
 kate
 kdenlive
@@ -135,9 +135,11 @@ cmake
 yay
 pamac
 ulauncher
-osx-installer
+calamares
 konsole
 kvantum
 latte-dock
 networkmanager
 network-manager-applet
+ckbcomp
+mkinitcpio-openswap
