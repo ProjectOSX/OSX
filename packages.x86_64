@@ -130,6 +130,7 @@ dolphin
 kate
 kdenlive
 discord
+xorg
 firefox
 cmake
 yay
@@ -143,3 +144,5 @@ networkmanager
 network-manager-applet
 ckbcomp
 mkinitcpio-openswap
+packagekit-qt5
+kget
